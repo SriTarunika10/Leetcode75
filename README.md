@@ -7,4 +7,5 @@ Example 2:
 Input: nums = [2,0,1]
 Output: [0,1,2]
 
-time complexity =o(1)
+time complexity =o(n^2)
+space complexity=o(1)
